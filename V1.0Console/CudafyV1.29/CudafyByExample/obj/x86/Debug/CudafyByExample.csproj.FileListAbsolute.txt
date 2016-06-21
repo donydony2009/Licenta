@@ -1,0 +1,12 @@
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\bin\Debug\CudafyByExample.exe.config
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\bin\Debug\CudafyByExample.exe
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\bin\Debug\CudafyByExample.pdb
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\bin\Debug\Cudafy.NET.dll
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\bin\Debug\Cudafy.NET.xml
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\obj\x86\Debug\CudafyByExample.csprojResolveAssemblyReference.cache
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\obj\x86\Debug\CudafyByExample.julia_gui.resources
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\obj\x86\Debug\CudafyByExample.ray_gui.resources
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\obj\x86\Debug\CudafyByExample.ripple.resources
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\obj\x86\Debug\CudafyByExample.csproj.GenerateResource.Cache
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\obj\x86\Debug\CudafyByExample.exe
+D:\Programing\Numerical Analysis\Licenta_V1.0\CudafyV1.29\CudafyByExample\obj\x86\Debug\CudafyByExample.pdb
