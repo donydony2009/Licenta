@@ -4,3 +4,9 @@ D:\Programing\Numerical Analysis\Licenta_V1.0\Licenta_V1.0\bin\Debug\Licenta_V1.
 D:\Programing\Numerical Analysis\Licenta_V1.0\Licenta_V1.0\obj\Debug\Licenta_V1.0.csprojResolveAssemblyReference.cache
 D:\Programing\Numerical Analysis\Licenta_V1.0\Licenta_V1.0\obj\Debug\Licenta_V1.0.exe
 D:\Programing\Numerical Analysis\Licenta_V1.0\Licenta_V1.0\obj\Debug\Licenta_V1.0.pdb
+D:\Git\Licenta\V1.0Console\Licenta_V1.0\bin\Debug\Licenta_V1.0.exe.config
+D:\Git\Licenta\V1.0Console\Licenta_V1.0\obj\Debug\Licenta_V1.0.exe
+D:\Git\Licenta\V1.0Console\Licenta_V1.0\obj\Debug\Licenta_V1.0.pdb
+D:\Git\Licenta\V1.0Console\Licenta_V1.0\obj\Debug\Licenta_V1.0.csprojResolveAssemblyReference.cache
+D:\Git\Licenta\V1.0Console\Licenta_V1.0\bin\Debug\Licenta_V1.0.exe
+D:\Git\Licenta\V1.0Console\Licenta_V1.0\bin\Debug\Licenta_V1.0.pdb

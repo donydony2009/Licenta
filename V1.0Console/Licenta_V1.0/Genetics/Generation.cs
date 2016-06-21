@@ -40,6 +40,11 @@ namespace AI.Genetics
             }
         }
 
+        public void ChangeFitnessFunctor(Delegates.FitnessFunctor functor)
+        {
+            m_CalculateFitness = functor;
+        }
+
         public void Evaluate()
         {
             foreach (Genome genome in m_Population)
@@ -57,8 +62,12 @@ namespace AI.Genetics
         public void Mutate()
         {
             int count = m_Population.Count;
-            for (int i = 0; i < count; i++)
+            for (int i = 0; m_Population.Count != m_PopulationSize; i++)
             {
+                if (i == count)
+                {
+                    i = 0;
+                }
                 Genome clone = (Genome)m_Population[i].Clone();
                 Mutate(clone);
                 m_Population.Add(clone);
@@ -99,7 +108,7 @@ namespace AI.Genetics
 
         public Generation NextGeneration()
         {
-            for (int i = 0; i < 1000000; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 Evaluate();
                 m_Population.Sort();
@@ -114,11 +123,7 @@ namespace AI.Genetics
             }
             Evaluate();
             m_Population.Sort();
-            var prime = m_Population[0];
-            while (true)
-            {
-                var fitness = m_CalculateFitness(prime);
-            }
+            m_CalculateFitness(m_Population[0]);
             return new Generation(m_Population.Count, m_KillCount, m_NeuralNetConfiguration, m_CalculateFitness);
         }
     }

@@ -41,11 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GoToObject2.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Genetics\Constants.cs" />
     <Compile Include="Genetics\Evaluable.cs" />
     <Compile Include="Genetics\Generation.cs" />
     <Compile Include="Genetics\Genome.cs" />
+    <Compile Include="GoToObject.cs" />
     <Compile Include="NeuralNetworks\Activations.cs" />
     <Compile Include="NeuralNetworks\Layer.cs" />
     <Compile Include="NeuralNetworks\Neuron.cs" />
@@ -53,6 +55,7 @@
     <Compile Include="Plugins\SimpleJSON\SimpleJSON.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StepObject.cs" />
     <Compile Include="Utils\Math.cs" />
     <Compile Include="Utils\Random.cs" />
   </ItemGroup>
